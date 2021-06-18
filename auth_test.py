@@ -1,8 +1,6 @@
 #!/usr/bin/env python
+import dev
+def test_func():
+    assert dev.func() == "1Hello world from dev"
 
-def inc(x):
-    return x + 1
-
-def test_answer():
-    assert inc(3) == 4
 
