@@ -1,2 +1,5 @@
 #!/usr/bin/env python
-print("Hello world from dev")
+def func():
+    return("Hello world from dev")
+print(func())
+
