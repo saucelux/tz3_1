@@ -1,2 +1,2 @@
 # tz3_1
-https://travis-ci.com/saucelux/tz3_1.svg?branch=master
+[![Build Status](https://travis-ci.comsaucelux/tz3_1.svg?branch=master)](https://travis-ci.com/sauceluxtz3_1)
